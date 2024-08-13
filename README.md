@@ -13,6 +13,6 @@ Findings will be shared via a blog post [here](link to follow)
 
 **Sources**
 
-GDP Source:[World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)national accounts data, and OECD National Accounts data files.
+GDP Source: [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) national accounts data, and OECD National Accounts data files.
 
 Life expectancy Data Source: [World Health Organization](vhttp://apps.who.int/gho/data/node.main.688)
